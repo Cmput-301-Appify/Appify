@@ -6,6 +6,7 @@ public abstract class Shape {
     String color = "blue";
     public Shape(Integer x, Integer y)
     {
+        String color = "RANDOM COLOR";
         this.x = x;
         this.y = y;
     };
