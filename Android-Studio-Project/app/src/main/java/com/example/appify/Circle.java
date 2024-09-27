@@ -1,3 +1,2 @@
-class Circle extends Shape{
-    String color = "red"	
+class Circle extends Shape{	
 }
